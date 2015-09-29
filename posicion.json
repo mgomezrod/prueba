@@ -19,8 +19,8 @@
 	"address": "calle 127 cr 7 no 14",
 	"neighborhood": "Bella Suiza",
 	"code":123,
-	"lat":4.703230,
-	"lon":-74.028926 
+	"lat":7.080530,
+	"lon":-73.10876 
 	},
 	{
 	"booking_id": "JXY2",
@@ -28,8 +28,8 @@
 	"address": "calle 125 cr 5 no 12",
 	"neighborhood": "Bella Suiza",
 	"code":125,
-	"lat":4.699359,
-	"lon":-74.027681 
+	"lat":7.07859,
+	"lon":-73.108281 
 	},
 	{
 	"booking_id": "JXY3",
@@ -37,7 +37,7 @@
 	"address": "calle 122 cr 11 no 13",
 	"neighborhood": "Unicentro",
 	"code":126,
-	"lat":4.699594,
-	"lon":-74.034720 
+	"lat":7.08004,
+	"lon":-7.108920 
 	}]
 }
