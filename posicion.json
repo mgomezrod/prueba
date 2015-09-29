@@ -1,0 +1,43 @@
+{
+  "status": 1,
+  "updatetime": 45,
+  "booking_id": "",
+  "approx_address": "",
+  "address": "",
+  "neighborhood": "",
+  "code": "",
+  "lat": "",
+  "lon": "",
+  "night_extra": 0,
+  "charge_status": 1,
+  "charge_message": "",
+  "messages": [],
+  "broadcast_messages": [],
+  "bookings": [{
+	"booking_id": "JXY1",
+	"approx_address": "calle 127 cr 7, par",
+	"address": "calle 127 cr 7 no 14",
+	"neighborhood": "Bella Suiza",
+	"code":123,
+	"lat":4.703230,
+	"lon":-74.028926 
+	},
+	{
+	"booking_id": "JXY2",
+	"approx_address": "calle 125 cr 5, par",
+	"address": "calle 125 cr 5 no 12",
+	"neighborhood": "Bella Suiza",
+	"code":125,
+	"lat":4.699359,
+	"lon":-74.027681 
+	},
+	{
+	"booking_id": "JXY3",
+	"approx_address": "calle 122 cr 11, impar",
+	"address": "calle 122 cr 11 no 13",
+	"neighborhood": "Unicentro",
+	"code":126,
+	"lat":4.699594,
+	"lon":-74.034720 
+	}]
+}
